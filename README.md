@@ -36,6 +36,9 @@ En este proyecto se presenta el análisis de ventas de un supermercado ficticio 
 
 ![Vista previa del dashboard](screenshots/dashboard-overview.png) <!-- Reemplaza esto con tu imagen real -->
 
+
+
+## Vista en linea
 🔗 **[Ver dashboard en línea](https://lookerstudio.google.com/reporting/dadadcde-f922-4a88-96cf-bbf7d6fb6a0b)**  
 
 
