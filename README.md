@@ -4,7 +4,7 @@ En este proyecto se presenta el análisis de ventas de un supermercado ficticio 
 
 ---
 
-## 📌 Objetivos del proyecto
+## Objetivos del proyecto
 
 - Analizar ingresos y utilidad total del negocio
 - Detectar los productos más rentables y con mayor utilidad
