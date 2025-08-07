@@ -22,6 +22,17 @@ En este proyecto se presenta el análisis de ventas de un supermercado ficticio 
 
 ---
 
+## Consultas SQL destacadas
+
+Durante el análisis, se utilizaron consultas SQL para:
+
+- Extraer el **año** y **mes** desde la columna de fecha para análisis temporal:
+  ```sql
+  SELECT YEAR(fecha) AS anio, MONTH(fecha) AS mes FROM ventas;
+
+
+---
+
 ## Visualizaciones incluidas en el dashboard
 
 - Indicadores clave: ingresos, utilidad, total de productos, total de clientes
