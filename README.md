@@ -22,6 +22,8 @@ En este proyecto se presenta el análisis de ventas de un supermercado ficticio 
 
 ---
 
+## Consultas realizadas en SQL
+
 Puedes ver las consultas SQL en el archivo [`sql_queries.sql`](sql_queries.sql)
 
 ---
