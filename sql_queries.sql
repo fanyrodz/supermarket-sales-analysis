@@ -266,10 +266,3 @@ GROUP BY año
 ORDER BY año;
 
 SELECT * FROM ventas_anuales;
-
-
-select * from ventas_mensuales;
-
-
-
-
