@@ -22,14 +22,7 @@ En este proyecto se presenta el análisis de ventas de un supermercado ficticio 
 
 ---
 
-## Consultas SQL destacadas
-
-Durante el análisis, se utilizaron consultas SQL para:
-
-- Extraer el **año** y **mes** desde la columna de fecha para análisis temporal:
-  ```sql
-  SELECT YEAR(fecha) AS anio, MONTH(fecha) AS mes FROM ventas;
-
+Puedes ver las consultas SQL en el archivo [`sql_queries.sql`](sql_queries.sql)
 
 ---
 
@@ -45,7 +38,7 @@ Durante el análisis, se utilizaron consultas SQL para:
 
 ## Vista previa
 
-![Vista previa del dashboard](screenshots/dashboard-overview.png) <!-- Reemplaza esto con tu imagen real -->
+![Vista previa del dashboard](screenshots/dashboard-overview.png) 
 
 
 
