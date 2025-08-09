@@ -52,17 +52,19 @@ Puedes ver las consultas SQL en el archivo [`sql_queries.sql`](sql_queries.sql)
 
 ## PRINCIPALES CONCLUSIONES
 
-A continuacion menciono algunos de los hallazgos encontrados al realizar el analisis de la tienda.
+A continuación, menciono algunos de los hallazgos obtenidos al realizar el análisis de la tienda:
 
-- La utilidad bruta que se obtuvo entre 2023 y 2025 es el 66% de sus ingresos.
-- Podemos apreciar que los 10 productos que generaron mayor utilidad son muy parecidos a los 10 prodctos con mayor margen (precio-costo), los unicos diferentes son los siguientes:
-
+- La utilidad bruta obtenida entre 2023 y 2025 representa el 66% de los ingresos totales.
+- Los 10 productos que generaron mayor utilidad son muy similares a los 10 productos con mayor margen (precio - costo); las únicas diferencias corresponden a:
   - WiFi Enabled Smart Light Switch
   - Handmade Wooden Utensil Set
-  - Roasted Garlic Butte
-  
-  Sobre estos productos la empresa podría realizar alguna campaña que promueva el aumento de las ventas aprovechando que son de los productos que generan más margen unitario y por lo tanto podría aumentar la utilidad bruta del negocio.
-- 
+  - Roasted Garlic Butter
+
+  Sobre estos productos, la empresa podría implementar campañas para incrementar sus ventas, aprovechando que presentan un alto margen unitario y, por lo tanto, pueden contribuir significativamente a aumentar la utilidad bruta del negocio.
+- La utilidad promedio generada por cliente es de $2,134.49. Sin embargo, al analizar a los **clientes top**, observamos que generan más de $4,000 en utilidad, mientras que algunos clientes no superan los $1,000. Esto sugiere oportunidades para implementar programas de fidelización que impulsen el consumo de todos los clientes en la tienda.
+- El año 2024 tuvo el mejor desempeño con más de $80,000 en utilidad. Es importante considerar que los datos de 2025 solo abarcan el primer semestre; por ello, se recomienda realizar un nuevo análisis con la información completa al finalizar el año para confirmar si la utilidad mantiene una tendencia creciente.
+
+
 
 
 
