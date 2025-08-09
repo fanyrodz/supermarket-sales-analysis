@@ -56,9 +56,11 @@ A continuacion menciono algunos de los hallazgos encontrados al realizar el anal
 
 - La utilidad bruta que se obtuvo entre 2023 y 2025 es el 66% de sus ingresos.
 - Podemos apreciar que los 10 productos que generaron mayor utilidad son muy parecidos a los 10 prodctos con mayor margen (precio-costo), los unicos diferentes son los siguientes:
-      - WiFi Enabled Smart Light Switch
-      - Handmade Wooden Utensil Set
-      - Roasted Garlic Butte
+
+  - WiFi Enabled Smart Light Switch
+  - Handmade Wooden Utensil Set
+  - Roasted Garlic Butte
+  
   Sobre estos productos la empresa podría realizar alguna campaña que promueva el aumento de las ventas aprovechando que son de los productos que generan más margen unitario y por lo tanto podría aumentar la utilidad bruta del negocio.
 - 
 
