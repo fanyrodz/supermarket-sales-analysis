@@ -43,9 +43,26 @@ Puedes ver las consultas SQL en el archivo [`sql_queries.sql`](sql_queries.sql)
 ![Vista previa del dashboard](screenshots/dashboard-overview.png) 
 
 
+---
 
 ## Vista en linea
 🔗 **[Ver dashboard en línea](https://lookerstudio.google.com/reporting/dadadcde-f922-4a88-96cf-bbf7d6fb6a0b)**  
+
+---
+
+## PRINCIPALES CONCLUSIONES
+
+A continuacion menciono algunos de los hallazgos encontrados al realizar el analisis de la tienda.
+
+- La utilidad bruta que se obtuvo entre 2023 y 2025 es el 66% de sus ingresos.
+- Podemos apreciar que los 10 productos que generaron mayor utilidad son muy parecidos a los 10 prodctos con mayor margen (precio-costo), los unicos diferentes son los siguientes:
+      - WiFi Enabled Smart Light Switch
+      - Handmade Wooden Utensil Set
+      - Roasted Garlic Butte
+  Sobre estos productos la empresa podría realizar alguna campaña que promueva el aumento de las ventas aprovechando que son de los productos que generan más margen unitario y por lo tanto podría aumentar la utilidad bruta del negocio.
+- 
+
+
 
 
 
